@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Saher Saadi
+🎓 I’m a passionate Software Developer who loves coding, problem-solving, and building efficient, scalable applications. I enjoy working on web development, automation, and exploring new technologies.
 
-<!--
-**Saher-15/saher-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Technologies:
+- **Programming Languages:** JavaScript, Python, Java, C
+- **Web Development:** React.js, HTML, CSS, Node.js
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning:
+- Advanced Backend Development with Node.js & Express.js
+- DevOps tools like Kubernetes and Terraform
+- Cloud Computing & Serverless Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 I’m interested in:
+- Building modern, scalable web applications
+- Exploring AI/ML and its real-world applications
+- Enhancing automation workflows and testing frameworks
+
+## 💞️ I’m looking to collaborate on:
+- Open-source projects that improve developer productivity
+- Full-stack applications using React.js and Node.js
+
+## 📫 How to reach me:
+📧 **Email:** [saher.saadi.99@gmail.com]  
+🌐 **LinkedIn:** [https://www.linkedin.com/in/saher-saadi-a637b11b5/]
